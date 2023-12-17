@@ -1,0 +1,51 @@
+Regions Code,Regions,UK armed forces veteran indicator (5 categories) Code,UK armed forces veteran indicator (5 categories),Observation
+E12000001,North East,-8,Does not apply,468053
+E12000001,North East,1,Previously served in the UK regular armed forces,80185
+E12000001,North East,2,Previously served in UK reserve armed forces,24198
+E12000001,North East,3,Previously served in both regular and reserve UK armed forces,4978
+E12000001,North East,4,Has not previously served in any UK armed forces,2069599
+E12000002,North West,-8,Does not apply,1391762
+E12000002,North West,1,Previously served in the UK regular armed forces,169700
+E12000002,North West,2,Previously served in UK reserve armed forces,49494
+E12000002,North West,3,Previously served in both regular and reserve UK armed forces,9545
+E12000002,North West,4,Has not previously served in any UK armed forces,5796896
+E12000003,Yorkshire and The Humber,-8,Does not apply,1020475
+E12000003,Yorkshire and The Humber,1,Previously served in the UK regular armed forces,142894
+E12000003,Yorkshire and The Humber,2,Previously served in UK reserve armed forces,34409
+E12000003,Yorkshire and The Humber,3,Previously served in both regular and reserve UK armed forces,7822
+E12000003,Yorkshire and The Humber,4,Has not previously served in any UK armed forces,4275174
+E12000004,East Midlands,-8,Does not apply,882009
+E12000004,East Midlands,1,Previously served in the UK regular armed forces,134189
+E12000004,East Midlands,2,Previously served in UK reserve armed forces,29103
+E12000004,East Midlands,3,Previously served in both regular and reserve UK armed forces,7237
+E12000004,East Midlands,4,Has not previously served in any UK armed forces,3827516
+E12000005,West Midlands,-8,Does not apply,1149428
+E12000005,West Midlands,1,Previously served in the UK regular armed forces,126147
+E12000005,West Midlands,2,Previously served in UK reserve armed forces,34115
+E12000005,West Midlands,3,Previously served in both regular and reserve UK armed forces,7337
+E12000005,West Midlands,4,Has not previously served in any UK armed forces,4633730
+E12000006,East of England,-8,Does not apply,1186790
+E12000006,East of England,1,Previously served in the UK regular armed forces,149280
+E12000006,East of England,2,Previously served in UK reserve armed forces,36470
+E12000006,East of England,3,Previously served in both regular and reserve UK armed forces,8132
+E12000006,East of England,4,Has not previously served in any UK armed forces,4954402
+E12000007,London,-8,Does not apply,1695743
+E12000007,London,1,Previously served in the UK regular armed forces,65066
+E12000007,London,2,Previously served in UK reserve armed forces,31900
+E12000007,London,3,Previously served in both regular and reserve UK armed forces,3751
+E12000007,London,4,Has not previously served in any UK armed forces,7003268
+E12000008,South East,-8,Does not apply,1723485
+E12000008,South East,1,Previously served in the UK regular armed forces,245235
+E12000008,South East,2,Previously served in UK reserve armed forces,58250
+E12000008,South East,3,Previously served in both regular and reserve UK armed forces,13597
+E12000008,South East,4,Has not previously served in any UK armed forces,7237498
+E12000009,South West,-8,Does not apply,965346
+E12000009,South West,1,Previously served in the UK regular armed forces,212657
+E12000009,South West,2,Previously served in UK reserve armed forces,40584
+E12000009,South West,3,Previously served in both regular and reserve UK armed forces,11509
+E12000009,South West,4,Has not previously served in any UK armed forces,4471093
+W92000004,Wales,-8,Does not apply,548078
+W92000004,Wales,1,Previously served in the UK regular armed forces,87943
+W92000004,Wales,2,Previously served in UK reserve armed forces,22250
+W92000004,Wales,3,Previously served in both regular and reserve UK armed forces,5138
+W92000004,Wales,4,Has not previously served in any UK armed forces,2444085
