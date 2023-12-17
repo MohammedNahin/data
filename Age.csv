@@ -1,0 +1,151 @@
+Regions Code,Regions,UK armed forces veteran indicator (5 categories) Code,UK armed forces veteran indicator (5 categories),Age (3 categories) Code,Age (3 categories),Observation
+E12000001,North East,-8,Does not apply,1,Aged 15 years and under,468053
+E12000001,North East,-8,Does not apply,2,Aged 16 to 64 years,0
+E12000001,North East,-8,Does not apply,3,Aged 65 years and over,0
+E12000001,North East,1,Previously served in the UK regular armed forces,1,Aged 15 years and under,0
+E12000001,North East,1,Previously served in the UK regular armed forces,2,Aged 16 to 64 years,41207
+E12000001,North East,1,Previously served in the UK regular armed forces,3,Aged 65 years and over,38978
+E12000001,North East,2,Previously served in UK reserve armed forces,1,Aged 15 years and under,0
+E12000001,North East,2,Previously served in UK reserve armed forces,2,Aged 16 to 64 years,15538
+E12000001,North East,2,Previously served in UK reserve armed forces,3,Aged 65 years and over,8660
+E12000001,North East,3,Previously served in both regular and reserve UK armed forces,1,Aged 15 years and under,0
+E12000001,North East,3,Previously served in both regular and reserve UK armed forces,2,Aged 16 to 64 years,2420
+E12000001,North East,3,Previously served in both regular and reserve UK armed forces,3,Aged 65 years and over,2558
+E12000001,North East,4,Has not previously served in any UK armed forces,1,Aged 15 years and under,0
+E12000001,North East,4,Has not previously served in any UK armed forces,2,Aged 16 to 64 years,1579236
+E12000001,North East,4,Has not previously served in any UK armed forces,3,Aged 65 years and over,490363
+E12000002,North West,-8,Does not apply,1,Aged 15 years and under,1391762
+E12000002,North West,-8,Does not apply,2,Aged 16 to 64 years,0
+E12000002,North West,-8,Does not apply,3,Aged 65 years and over,0
+E12000002,North West,1,Previously served in the UK regular armed forces,1,Aged 15 years and under,0
+E12000002,North West,1,Previously served in the UK regular armed forces,2,Aged 16 to 64 years,80507
+E12000002,North West,1,Previously served in the UK regular armed forces,3,Aged 65 years and over,89193
+E12000002,North West,2,Previously served in UK reserve armed forces,1,Aged 15 years and under,0
+E12000002,North West,2,Previously served in UK reserve armed forces,2,Aged 16 to 64 years,31893
+E12000002,North West,2,Previously served in UK reserve armed forces,3,Aged 65 years and over,17601
+E12000002,North West,3,Previously served in both regular and reserve UK armed forces,1,Aged 15 years and under,0
+E12000002,North West,3,Previously served in both regular and reserve UK armed forces,2,Aged 16 to 64 years,4048
+E12000002,North West,3,Previously served in both regular and reserve UK armed forces,3,Aged 65 years and over,5498
+E12000002,North West,4,Has not previously served in any UK armed forces,1,Aged 15 years and under,0
+E12000002,North West,4,Has not previously served in any UK armed forces,2,Aged 16 to 64 years,4522873
+E12000002,North West,4,Has not previously served in any UK armed forces,3,Aged 65 years and over,1274023
+E12000003,Yorkshire and The Humber,-8,Does not apply,1,Aged 15 years and under,1020475
+E12000003,Yorkshire and The Humber,-8,Does not apply,2,Aged 16 to 64 years,0
+E12000003,Yorkshire and The Humber,-8,Does not apply,3,Aged 65 years and over,0
+E12000003,Yorkshire and The Humber,1,Previously served in the UK regular armed forces,1,Aged 15 years and under,0
+E12000003,Yorkshire and The Humber,1,Previously served in the UK regular armed forces,2,Aged 16 to 64 years,64539
+E12000003,Yorkshire and The Humber,1,Previously served in the UK regular armed forces,3,Aged 65 years and over,78355
+E12000003,Yorkshire and The Humber,2,Previously served in UK reserve armed forces,1,Aged 15 years and under,0
+E12000003,Yorkshire and The Humber,2,Previously served in UK reserve armed forces,2,Aged 16 to 64 years,22544
+E12000003,Yorkshire and The Humber,2,Previously served in UK reserve armed forces,3,Aged 65 years and over,11868
+E12000003,Yorkshire and The Humber,3,Previously served in both regular and reserve UK armed forces,1,Aged 15 years and under,0
+E12000003,Yorkshire and The Humber,3,Previously served in both regular and reserve UK armed forces,2,Aged 16 to 64 years,3276
+E12000003,Yorkshire and The Humber,3,Previously served in both regular and reserve UK armed forces,3,Aged 65 years and over,4546
+E12000003,Yorkshire and The Humber,4,Has not previously served in any UK armed forces,1,Aged 15 years and under,0
+E12000003,Yorkshire and The Humber,4,Has not previously served in any UK armed forces,2,Aged 16 to 64 years,3328955
+E12000003,Yorkshire and The Humber,4,Has not previously served in any UK armed forces,3,Aged 65 years and over,946219
+E12000004,East Midlands,-8,Does not apply,1,Aged 15 years and under,882009
+E12000004,East Midlands,-8,Does not apply,2,Aged 16 to 64 years,0
+E12000004,East Midlands,-8,Does not apply,3,Aged 65 years and over,0
+E12000004,East Midlands,1,Previously served in the UK regular armed forces,1,Aged 15 years and under,0
+E12000004,East Midlands,1,Previously served in the UK regular armed forces,2,Aged 16 to 64 years,60803
+E12000004,East Midlands,1,Previously served in the UK regular armed forces,3,Aged 65 years and over,73386
+E12000004,East Midlands,2,Previously served in UK reserve armed forces,1,Aged 15 years and under,0
+E12000004,East Midlands,2,Previously served in UK reserve armed forces,2,Aged 16 to 64 years,18969
+E12000004,East Midlands,2,Previously served in UK reserve armed forces,3,Aged 65 years and over,10134
+E12000004,East Midlands,3,Previously served in both regular and reserve UK armed forces,1,Aged 15 years and under,0
+E12000004,East Midlands,3,Previously served in both regular and reserve UK armed forces,2,Aged 16 to 64 years,3030
+E12000004,East Midlands,3,Previously served in both regular and reserve UK armed forces,3,Aged 65 years and over,4207
+E12000004,East Midlands,4,Has not previously served in any UK armed forces,1,Aged 15 years and under,0
+E12000004,East Midlands,4,Has not previously served in any UK armed forces,2,Aged 16 to 64 years,2963468
+E12000004,East Midlands,4,Has not previously served in any UK armed forces,3,Aged 65 years and over,864048
+E12000005,West Midlands,-8,Does not apply,1,Aged 15 years and under,1149428
+E12000005,West Midlands,-8,Does not apply,2,Aged 16 to 64 years,0
+E12000005,West Midlands,-8,Does not apply,3,Aged 65 years and over,0
+E12000005,West Midlands,1,Previously served in the UK regular armed forces,1,Aged 15 years and under,0
+E12000005,West Midlands,1,Previously served in the UK regular armed forces,2,Aged 16 to 64 years,52156
+E12000005,West Midlands,1,Previously served in the UK regular armed forces,3,Aged 65 years and over,73991
+E12000005,West Midlands,2,Previously served in UK reserve armed forces,1,Aged 15 years and under,0
+E12000005,West Midlands,2,Previously served in UK reserve armed forces,2,Aged 16 to 64 years,22168
+E12000005,West Midlands,2,Previously served in UK reserve armed forces,3,Aged 65 years and over,11947
+E12000005,West Midlands,3,Previously served in both regular and reserve UK armed forces,1,Aged 15 years and under,0
+E12000005,West Midlands,3,Previously served in both regular and reserve UK armed forces,2,Aged 16 to 64 years,2938
+E12000005,West Midlands,3,Previously served in both regular and reserve UK armed forces,3,Aged 65 years and over,4399
+E12000005,West Midlands,4,Has not previously served in any UK armed forces,1,Aged 15 years and under,0
+E12000005,West Midlands,4,Has not previously served in any UK armed forces,2,Aged 16 to 64 years,3606834
+E12000005,West Midlands,4,Has not previously served in any UK armed forces,3,Aged 65 years and over,1026896
+E12000006,East of England,-8,Does not apply,1,Aged 15 years and under,1186790
+E12000006,East of England,-8,Does not apply,2,Aged 16 to 64 years,0
+E12000006,East of England,-8,Does not apply,3,Aged 65 years and over,0
+E12000006,East of England,1,Previously served in the UK regular armed forces,1,Aged 15 years and under,0
+E12000006,East of England,1,Previously served in the UK regular armed forces,2,Aged 16 to 64 years,55343
+E12000006,East of England,1,Previously served in the UK regular armed forces,3,Aged 65 years and over,93937
+E12000006,East of England,2,Previously served in UK reserve armed forces,1,Aged 15 years and under,0
+E12000006,East of England,2,Previously served in UK reserve armed forces,2,Aged 16 to 64 years,22299
+E12000006,East of England,2,Previously served in UK reserve armed forces,3,Aged 65 years and over,14171
+E12000006,East of England,3,Previously served in both regular and reserve UK armed forces,1,Aged 15 years and under,0
+E12000006,East of England,3,Previously served in both regular and reserve UK armed forces,2,Aged 16 to 64 years,2898
+E12000006,East of England,3,Previously served in both regular and reserve UK armed forces,3,Aged 65 years and over,5234
+E12000006,East of England,4,Has not previously served in any UK armed forces,1,Aged 15 years and under,0
+E12000006,East of England,4,Has not previously served in any UK armed forces,2,Aged 16 to 64 years,3824620
+E12000006,East of England,4,Has not previously served in any UK armed forces,3,Aged 65 years and over,1129782
+E12000007,London,-8,Does not apply,1,Aged 15 years and under,1695743
+E12000007,London,-8,Does not apply,2,Aged 16 to 64 years,0
+E12000007,London,-8,Does not apply,3,Aged 65 years and over,0
+E12000007,London,1,Previously served in the UK regular armed forces,1,Aged 15 years and under,0
+E12000007,London,1,Previously served in the UK regular armed forces,2,Aged 16 to 64 years,24199
+E12000007,London,1,Previously served in the UK regular armed forces,3,Aged 65 years and over,40867
+E12000007,London,2,Previously served in UK reserve armed forces,1,Aged 15 years and under,0
+E12000007,London,2,Previously served in UK reserve armed forces,2,Aged 16 to 64 years,23504
+E12000007,London,2,Previously served in UK reserve armed forces,3,Aged 65 years and over,8396
+E12000007,London,3,Previously served in both regular and reserve UK armed forces,1,Aged 15 years and under,0
+E12000007,London,3,Previously served in both regular and reserve UK armed forces,2,Aged 16 to 64 years,1453
+E12000007,London,3,Previously served in both regular and reserve UK armed forces,3,Aged 65 years and over,2298
+E12000007,London,4,Has not previously served in any UK armed forces,1,Aged 15 years and under,0
+E12000007,London,4,Has not previously served in any UK armed forces,2,Aged 16 to 64 years,6011411
+E12000007,London,4,Has not previously served in any UK armed forces,3,Aged 65 years and over,991857
+E12000008,South East,-8,Does not apply,1,Aged 15 years and under,1723485
+E12000008,South East,-8,Does not apply,2,Aged 16 to 64 years,0
+E12000008,South East,-8,Does not apply,3,Aged 65 years and over,0
+E12000008,South East,1,Previously served in the UK regular armed forces,1,Aged 15 years and under,0
+E12000008,South East,1,Previously served in the UK regular armed forces,2,Aged 16 to 64 years,94791
+E12000008,South East,1,Previously served in the UK regular armed forces,3,Aged 65 years and over,150444
+E12000008,South East,2,Previously served in UK reserve armed forces,1,Aged 15 years and under,0
+E12000008,South East,2,Previously served in UK reserve armed forces,2,Aged 16 to 64 years,36052
+E12000008,South East,2,Previously served in UK reserve armed forces,3,Aged 65 years and over,22198
+E12000008,South East,3,Previously served in both regular and reserve UK armed forces,1,Aged 15 years and under,0
+E12000008,South East,3,Previously served in both regular and reserve UK armed forces,2,Aged 16 to 64 years,5173
+E12000008,South East,3,Previously served in both regular and reserve UK armed forces,3,Aged 65 years and over,8424
+E12000008,South East,4,Has not previously served in any UK armed forces,1,Aged 15 years and under,0
+E12000008,South East,4,Has not previously served in any UK armed forces,2,Aged 16 to 64 years,5614307
+E12000008,South East,4,Has not previously served in any UK armed forces,3,Aged 65 years and over,1623191
+E12000009,South West,-8,Does not apply,1,Aged 15 years and under,965346
+E12000009,South West,-8,Does not apply,2,Aged 16 to 64 years,0
+E12000009,South West,-8,Does not apply,3,Aged 65 years and over,0
+E12000009,South West,1,Previously served in the UK regular armed forces,1,Aged 15 years and under,0
+E12000009,South West,1,Previously served in the UK regular armed forces,2,Aged 16 to 64 years,92493
+E12000009,South West,1,Previously served in the UK regular armed forces,3,Aged 65 years and over,120164
+E12000009,South West,2,Previously served in UK reserve armed forces,1,Aged 15 years and under,0
+E12000009,South West,2,Previously served in UK reserve armed forces,2,Aged 16 to 64 years,24325
+E12000009,South West,2,Previously served in UK reserve armed forces,3,Aged 65 years and over,16256
+E12000009,South West,3,Previously served in both regular and reserve UK armed forces,1,Aged 15 years and under,0
+E12000009,South West,3,Previously served in both regular and reserve UK armed forces,2,Aged 16 to 64 years,4665
+E12000009,South West,3,Previously served in both regular and reserve UK armed forces,3,Aged 65 years and over,6846
+E12000009,South West,4,Has not previously served in any UK armed forces,1,Aged 15 years and under,0
+E12000009,South West,4,Has not previously served in any UK armed forces,2,Aged 16 to 64 years,3340724
+E12000009,South West,4,Has not previously served in any UK armed forces,3,Aged 65 years and over,1130368
+W92000004,Wales,-8,Does not apply,1,Aged 15 years and under,548078
+W92000004,Wales,-8,Does not apply,2,Aged 16 to 64 years,0
+W92000004,Wales,-8,Does not apply,3,Aged 65 years and over,0
+W92000004,Wales,1,Previously served in the UK regular armed forces,1,Aged 15 years and under,0
+W92000004,Wales,1,Previously served in the UK regular armed forces,2,Aged 16 to 64 years,41429
+W92000004,Wales,1,Previously served in the UK regular armed forces,3,Aged 65 years and over,46514
+W92000004,Wales,2,Previously served in UK reserve armed forces,1,Aged 15 years and under,0
+W92000004,Wales,2,Previously served in UK reserve armed forces,2,Aged 16 to 64 years,13807
+W92000004,Wales,2,Previously served in UK reserve armed forces,3,Aged 65 years and over,8444
+W92000004,Wales,3,Previously served in both regular and reserve UK armed forces,1,Aged 15 years and under,0
+W92000004,Wales,3,Previously served in both regular and reserve UK armed forces,2,Aged 16 to 64 years,2148
+W92000004,Wales,3,Previously served in both regular and reserve UK armed forces,3,Aged 65 years and over,2990
+W92000004,Wales,4,Has not previously served in any UK armed forces,1,Aged 15 years and under,0
+W92000004,Wales,4,Has not previously served in any UK armed forces,2,Aged 16 to 64 years,1839989
+W92000004,Wales,4,Has not previously served in any UK armed forces,3,Aged 65 years and over,604096
